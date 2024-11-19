@@ -1,0 +1,43 @@
+{
+  "frames": [
+    {
+      "filename": "powerUps_01",
+      "frame": { "x": 484, "y": 64, "w": 8, "h": 12 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 8, "h": 12 },
+      "sourceSize": { "w": 8, "h": 12 }
+    },
+    {
+      "filename": "powerUps_02",
+      "frame": { "x": 484, "y": 78, "w": 8, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 8, "h": 14 },
+      "sourceSize": { "w": 8, "h": 14 }
+    },
+    {
+      "filename": "powerUps_03",
+      "frame": { "x": 484, "y": 94, "w": 8, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 8, "h": 14 },
+      "sourceSize": { "w": 8, "h": 14 }
+    },
+    {
+      "filename": "powerUps_04",
+      "frame": { "x": 484, "y": 110, "w": 8, "h": 14 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 8, "h": 14 },
+      "sourceSize": { "w": 8, "h": 14 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.leshylabs.com/apps/sstool/",
+    "version": "Leshy SpriteSheet Tool v0.8.4",
+    "image": "powerUps.png",
+    "size": { "w": 720, "h": 128 },
+    "scale": 1
+  }
+}

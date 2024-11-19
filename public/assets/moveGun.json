@@ -1,0 +1,35 @@
+{
+  "frames": [
+    {
+      "filename": "moveGun_01",
+      "frame": { "x": 0, "y": 0, "w": 485, "h": 128 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 485, "h": 128 },
+      "sourceSize": { "w": 485, "h": 128 }
+    },
+    {
+      "filename": "moveGun_02",
+      "frame": { "x": 0, "y": 136, "w": 485, "h": 128 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 485, "h": 128 },
+      "sourceSize": { "w": 485, "h": 128 }
+    },
+    {
+      "filename": "moveGun_03",
+      "frame": { "x": 0, "y": 272, "w": 485, "h": 128 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 485, "h": 128 },
+      "sourceSize": { "w": 485, "h": 128 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.leshylabs.com/apps/sstool/",
+    "version": "Leshy SpriteSheet Tool v0.8.4",
+    "image": "moveGun.png",
+    "size": { "w": 485, "h": 400 },
+    "scale": 1
+  }
+}

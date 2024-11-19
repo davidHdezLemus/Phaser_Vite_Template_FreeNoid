@@ -1,0 +1,27 @@
+{
+  "frames": [
+    {
+      "filename": "life_01",
+      "frame": { "x": 2, "y": 3, "w": 11, "h": 10 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 11, "h": 10 },
+      "sourceSize": { "w": 11, "h": 10 }
+    },
+    {
+      "filename": "life_02",
+      "frame": { "x": 115, "y": 3, "w": 11, "h": 10 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 11, "h": 10 },
+      "sourceSize": { "w": 11, "h": 10 }
+    }
+  ],
+  "meta": {
+    "app": "https://www.leshylabs.com/apps/sstool/",
+    "version": "Leshy SpriteSheet Tool v0.8.4",
+    "image": "life.png",
+    "size": { "w": 128, "h": 16 },
+    "scale": 1
+  }
+}
